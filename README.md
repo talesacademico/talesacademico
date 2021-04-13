@@ -19,38 +19,20 @@ Here are some ideas to get you started:
 
 # <a href="https://www.instagram.com/ulisses.brandao">Olá terráqueos ✌️</a>
  ## Sobre mim 🙋‍♂️
-Natural de Presidente Kubitschek - MG me chamo Ulisses Brandão e sou estudante Sistemas de Informação na Universidade Federal dos Vales dos Jequitinhonha e Mucuri - UFVJM . Lutando todos os dias com muita persistência e comprometimento para alcançar meus sonhos e entregar o melhor resultado.
+Estudante de Sistemas de 	Informação. Me encontro em busca de oportunidade de estágio. Possuo conhecimento na área de desenvolvimento web. Experiência com front-end. Ajudei como desenvolvedor a concluir a parte final de uns dos projetos desenvolvidos pela empresa júnior Nextstep da UFVJM. Vivência e colaboração em processos administrativos, atuando como estagiário no Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG. Participo atualmente de um grupo de extensão ligado a UFVJM, entre os projetos realizados desenvolvi uma plataforma para um dos eventos além do site do grupo.
+
 <br>
 
 ## Habilidades 👨‍💻
-- Designer Gráfico 
-- UI/UX Design 
-- FrontEnd: HTML - CSS - JS (React, React Native)
-- BackEnd: NodeJS
-- Banco de Dados Relacional/Não Relacional
-- Linguagens que me arrisco:  C++ JAVA e Python
-- Empreendedorismo em Startup (Loading...)
-
-## Ferramentas 💻
-
-- Photoshop
-- Illustrator
-- Corel Draw
-- After Effects
-- Premier
-- Figma
-- Wordpress
-- Visual Studio Code
-- MongoDB
-- MySql
-- Docker
-- Android Studio
+- FrontEnd: HTML - CSS - JS - VueJS
+- BackEnd: NodeJS - Express
+- Linguagens:  C++ e JAVA
 
 
-##  Bora tomar um café?  ☕
-- <a href="https://www.linkedin.com/in/ulisses-brand%C3%A3o-84a4211b5/">Linkedin</a>
-- <a href="https://www.facebook.com/">Facebook</a>
-- <a href="https://www.instagram.com/ulisses.brandao/">Instagram</a>
+
+##  Bora codar?  ☕
+- <a href="https://www.linkedin.com/in/tales-felix-7b3b1a1a5">Linkedin</a>
+- <a href="http://italsblog.epizy.com/">Sobre</a>
 </div>
 
 <!-- modelo inspirado na giovannamoeller -->
