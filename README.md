@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # <a href="https://www.instagram.com/ulisses.brandao">Olá terráqueos ✌️</a>
  ## Sobre mim 🙋‍♂️
-Estudante de Sistemas de 	Informação. Me encontro em busca de oportunidade de estágio. Possuo conhecimento na área de desenvolvimento web. Experiência com front-end. Ajudei como desenvolvedor a concluir a parte final de uns dos projetos desenvolvidos pela empresa júnior Nextstep da UFVJM. Vivência e colaboração em processos administrativos, atuando como estagiário no Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG. Participo atualmente de um grupo de extensão ligado a UFVJM, entre os projetos realizados desenvolvi uma plataforma para um dos eventos além do site do grupo.
+Estudante de Sistemas de 	Informação. Possuo conhecimento na área de desenvolvimento web. Vivência e colaboração em processos administrativos, atuando como estagiário no Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG. Participo atualmente de um grupo de extensão ligado a UFVJM, entre os projetos realizados desenvolvi uma plataforma para um dos eventos além do site do grupo.
 
 <br>
 
