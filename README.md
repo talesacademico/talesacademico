@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **itals53fs/itals53fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://i.imgur.com/i55ktTL.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astrounauta fazendo v">
 
-# <a href="https://www.instagram.com/ulisses.brandao">Olá terráqueos ✌️</a>
+# <a href="https://www.instagram.com/ulisses.brandao">Hello my friend ✌️</a>
  ## Sobre mim 🙋‍♂️
 Estudante de Sistemas de 	Informação. Possuo conhecimento na área de desenvolvimento web. Vivência e colaboração em processos administrativos, atuando como estagiário no Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG. Participo atualmente de um grupo de extensão ligado a UFVJM, entre os projetos realizados desenvolvi uma plataforma para um dos eventos além do site do grupo.
 
