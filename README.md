@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # <a href="https://www.instagram.com/ulisses.brandao">Hello my friend ✌️</a>
  ## Sobre mim 🙋‍♂️
-Estudante de Sistemas de 	Informação. Foco no Desenvolvimento web. Colaborador equipe de projetos empresa júnior Nextstep da UFVJM. Vivência e colaboração em processos administrativos e suporte técnico, atuando como estagiário no Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG. Grupo de extensão PET ligado a UFVJM, entre outros projetos.
+Estudante de Sistemas de 	Informação. Foco no Desenvolvimento web. Colaborador, equipe de projetos, empresa júnior Nextstep da UFVJM. Vivência e colaboração em processos administrativos e suporte técnico, atuando como estagiário no Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG. Grupo de extensão, PET ligado a UFVJM. Entre outros projetos.
 
 <br>
 
