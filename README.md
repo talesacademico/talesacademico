@@ -31,7 +31,7 @@ Estudante de Sistemas de 	Informação. Foco no Desenvolvimento web. Colaborador
 
 
 ##  Bora codar?  ☕
-- <a href="https://www.linkedin.com/in/tales-felix-7b3b1a1a5" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/tales-felix-7b3b1a1a5" target="_blank" >Linkedin</a>
 - <a href="https://github.com/itals53fs" target="_blank"> Github de Início</a>
 </div>
 
