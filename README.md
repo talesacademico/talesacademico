@@ -32,7 +32,6 @@ Estudante de Sistemas de 	Informação. Foco no Desenvolvimento web. Colaborador
 
 ##  Bora codar?  ☕
 - <a href="https://www.linkedin.com/in/tales-felix-7b3b1a1a5">Linkedin</a>
-- <a href="http://italsblog.epizy.com/">Sobre</a>
 </div>
 
 <!-- modelo inspirado na giovannamoeller -->
